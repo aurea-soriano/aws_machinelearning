@@ -1,12 +1,6 @@
-![logo](data/MLU_Logo.png)
-## Machine Learning University: Decision Trees and Ensemble Methods Class
+## Information
 
-This repository contains __slides__, __notebooks__, and __datasets__ for the __Machine Learning University (MLU) Decision Trees and Ensemble Methods__ class. Our mission is to make Machine Learning accessible to everyone. We have courses available across many topics of machine learning and believe knowledge of ML can be a key enabler for success. This class is designed to help you get started with tree based models, learn about widely used Machine Learning techniques and apply them to real-world problems.
-
-## YouTube
-Watch all class video recordings in this [YouTube playlist](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p) from our [YouTube channel](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw/playlists).
-
-[![Playlist](https://img.youtube.com/vi/DtX1hN0FRfk/0.jpg)](https://www.youtube.com/playlist?list=PL8P_Z6C4GcuXrj9crYtU_XaYh3Jac4x0p)
+This repository contains __slides__, __notebooks__, and __datasets__ for the __Machine Learning University (MLU) Decision Trees and Ensemble Methods__ class. 
 
 ## Course Overview
 There are five lectures, one final project and five assignments for this class.
